@@ -6,4 +6,4 @@ As a programmer, studying Apache James is a great opportunity to improve our arc
 
 The project is composed of a series of articles about Apache James, which cover almost all modulars. If you have better ideas, please come along to improve the project together.
 
-Thanks to all the contributors of Apache James source code. Hope we could design more excellent program by continuing study.
+Thanks to all the contributors of Apache James source code. Hope we could design more excellent programs by continuing study.
